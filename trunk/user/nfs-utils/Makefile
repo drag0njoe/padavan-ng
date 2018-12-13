@@ -21,7 +21,7 @@ configure:
 		--prefix=/ \
 		--disable-ipv6 \
 		--disable-mount \
-		--disable-libmount \
+		--disable-libmount-mount \
 		--disable-mountconfig \
 		--disable-nfsdcltrack \
 		--disable-nfsv4 \
